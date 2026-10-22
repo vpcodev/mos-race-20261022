@@ -1,0 +1,248 @@
+{
+  "plugins": [
+    {
+      "name": "r01",
+      "description": "Race fixture r01",
+      "version": "1.0.0",
+      "source": "./plugins/r01"
+    },
+    {
+      "name": "r02",
+      "description": "Race fixture r02",
+      "version": "1.0.0",
+      "source": "./plugins/r02"
+    },
+    {
+      "name": "r03",
+      "description": "Race fixture r03",
+      "version": "1.0.0",
+      "source": "./plugins/r03"
+    },
+    {
+      "name": "r04",
+      "description": "Race fixture r04",
+      "version": "1.0.0",
+      "source": "./plugins/r04"
+    },
+    {
+      "name": "r05",
+      "description": "Race fixture r05",
+      "version": "1.0.0",
+      "source": "./plugins/r05"
+    },
+    {
+      "name": "r06",
+      "description": "Race fixture r06",
+      "version": "1.0.0",
+      "source": "./plugins/r06"
+    },
+    {
+      "name": "r07",
+      "description": "Race fixture r07",
+      "version": "1.0.0",
+      "source": "./plugins/r07"
+    },
+    {
+      "name": "r08",
+      "description": "Race fixture r08",
+      "version": "1.0.0",
+      "source": "./plugins/r08"
+    },
+    {
+      "name": "r09",
+      "description": "Race fixture r09",
+      "version": "1.0.0",
+      "source": "./plugins/r09"
+    },
+    {
+      "name": "r10",
+      "description": "Race fixture r10",
+      "version": "1.0.0",
+      "source": "./plugins/r10"
+    },
+    {
+      "name": "r11",
+      "description": "Race fixture r11",
+      "version": "1.0.0",
+      "source": "./plugins/r11"
+    },
+    {
+      "name": "r12",
+      "description": "Race fixture r12",
+      "version": "1.0.0",
+      "source": "./plugins/r12"
+    },
+    {
+      "name": "r13",
+      "description": "Race fixture r13",
+      "version": "1.0.0",
+      "source": "./plugins/r13"
+    },
+    {
+      "name": "r14",
+      "description": "Race fixture r14",
+      "version": "1.0.0",
+      "source": "./plugins/r14"
+    },
+    {
+      "name": "r15",
+      "description": "Race fixture r15",
+      "version": "1.0.0",
+      "source": "./plugins/r15"
+    },
+    {
+      "name": "r16",
+      "description": "Race fixture r16",
+      "version": "1.0.0",
+      "source": "./plugins/r16"
+    },
+    {
+      "name": "r17",
+      "description": "Race fixture r17",
+      "version": "1.0.0",
+      "source": "./plugins/r17"
+    },
+    {
+      "name": "r18",
+      "description": "Race fixture r18",
+      "version": "1.0.0",
+      "source": "./plugins/r18"
+    },
+    {
+      "name": "r19",
+      "description": "Race fixture r19",
+      "version": "1.0.0",
+      "source": "./plugins/r19"
+    },
+    {
+      "name": "r20",
+      "description": "Race fixture r20",
+      "version": "1.0.0",
+      "source": "./plugins/r20"
+    },
+    {
+      "name": "r21",
+      "description": "Race fixture r21",
+      "version": "1.0.0",
+      "source": "./plugins/r21"
+    },
+    {
+      "name": "r22",
+      "description": "Race fixture r22",
+      "version": "1.0.0",
+      "source": "./plugins/r22"
+    },
+    {
+      "name": "r23",
+      "description": "Race fixture r23",
+      "version": "1.0.0",
+      "source": "./plugins/r23"
+    },
+    {
+      "name": "r24",
+      "description": "Race fixture r24",
+      "version": "1.0.0",
+      "source": "./plugins/r24"
+    },
+    {
+      "name": "r25",
+      "description": "Race fixture r25",
+      "version": "1.0.0",
+      "source": "./plugins/r25"
+    },
+    {
+      "name": "r26",
+      "description": "Race fixture r26",
+      "version": "1.0.0",
+      "source": "./plugins/r26"
+    },
+    {
+      "name": "r27",
+      "description": "Race fixture r27",
+      "version": "1.0.0",
+      "source": "./plugins/r27"
+    },
+    {
+      "name": "r28",
+      "description": "Race fixture r28",
+      "version": "1.0.0",
+      "source": "./plugins/r28"
+    },
+    {
+      "name": "r29",
+      "description": "Race fixture r29",
+      "version": "1.0.0",
+      "source": "./plugins/r29"
+    },
+    {
+      "name": "r30",
+      "description": "Race fixture r30",
+      "version": "1.0.0",
+      "source": "./plugins/r30"
+    },
+    {
+      "name": "r31",
+      "description": "Race fixture r31",
+      "version": "1.0.0",
+      "source": "./plugins/r31"
+    },
+    {
+      "name": "r32",
+      "description": "Race fixture r32",
+      "version": "1.0.0",
+      "source": "./plugins/r32"
+    },
+    {
+      "name": "r33",
+      "description": "Race fixture r33",
+      "version": "1.0.0",
+      "source": "./plugins/r33"
+    },
+    {
+      "name": "r34",
+      "description": "Race fixture r34",
+      "version": "1.0.0",
+      "source": "./plugins/r34"
+    },
+    {
+      "name": "r35",
+      "description": "Race fixture r35",
+      "version": "1.0.0",
+      "source": "./plugins/r35"
+    },
+    {
+      "name": "r36",
+      "description": "Race fixture r36",
+      "version": "1.0.0",
+      "source": "./plugins/r36"
+    },
+    {
+      "name": "r37",
+      "description": "Race fixture r37",
+      "version": "1.0.0",
+      "source": "./plugins/r37"
+    },
+    {
+      "name": "r38",
+      "description": "Race fixture r38",
+      "version": "1.0.0",
+      "source": "./plugins/r38"
+    },
+    {
+      "name": "r39",
+      "description": "Race fixture r39",
+      "version": "1.0.0",
+      "source": "./plugins/r39"
+    },
+    {
+      "name": "r40",
+      "description": "Race fixture r40",
+      "version": "1.0.0",
+      "source": "./plugins/r40"
+    }
+  ],
+  "owner": {
+    "name": "vpcodev"
+  },
+  "name": "mos-race"
+}
