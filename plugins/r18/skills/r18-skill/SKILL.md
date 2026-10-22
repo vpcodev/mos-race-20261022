@@ -5,5 +5,5 @@ description: Race fixture skill r18.
 
 # r18
 
-base
+v2
 

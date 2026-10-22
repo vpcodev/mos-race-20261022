@@ -5,5 +5,5 @@ description: Race fixture skill r02.
 
 # r02
 
-base
+v2
 

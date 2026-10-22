@@ -5,5 +5,5 @@ description: Race fixture skill r36.
 
 # r36
 
-base
+v2
 

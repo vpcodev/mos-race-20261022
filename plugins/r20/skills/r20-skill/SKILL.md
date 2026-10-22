@@ -5,5 +5,5 @@ description: Race fixture skill r20.
 
 # r20
 
-base
+v2
 

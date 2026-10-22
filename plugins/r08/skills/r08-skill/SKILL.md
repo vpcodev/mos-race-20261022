@@ -5,5 +5,5 @@ description: Race fixture skill r08.
 
 # r08
 
-base
+v2
 
