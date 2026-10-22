@@ -5,5 +5,5 @@ description: Race fixture skill r24.
 
 # r24
 
-v4
+v5
 
